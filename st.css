@@ -1,0 +1,17 @@
+table th,td{
+    border: 2px solid blue;
+    padding: 28px;
+    
+}
+th{
+    background-color: cadetblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    border-collapse: separate;
+}
+td{
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: chocolate;
+    border-collapse: collapse;
+}
